@@ -1,0 +1,1 @@
+var name="Pierre";document.write("Hello "+name+"!");
